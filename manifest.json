@@ -1,0 +1,20 @@
+
+{
+
+  "description": "TBD",
+  "manifest_version": 1,
+  "name": "tweetdeckify",
+  "version": "0.1",
+  "homepage_url": "https://github.com/",
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.tweetdeck.twitter.com/*"],
+      "js": ["tweetdeckify.js"]
+    }
+  ]
+
+}
