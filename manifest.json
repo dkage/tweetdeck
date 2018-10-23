@@ -1,11 +1,10 @@
-
 {
 
   "description": "TBD",
   "manifest_version": 1,
   "name": "tweetdeckify",
   "version": "0.1",
-  "homepage_url": "https://github.com/",
+  "homepage_url": "https://tbd.tbd/",
   "icons": {
     "48": "icons/border-48.png"
   },
